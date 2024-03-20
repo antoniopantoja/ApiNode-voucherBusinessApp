@@ -1,0 +1,212 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Smartphone\nMotorola 5G\n Modelo 8945",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.1,
+      "preco": 150.88
+    },
+    {
+      "id": 2,
+      "nome": "PlayStation 5\nSlim 1TB SSD\nEdicao Digital",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 5,
+      "preco": 5783
+    },
+    {
+      "id": 3,
+      "nome": "Fone de Ouvido\nPhilco Headphone\nPFO02P - Preto",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 150.004
+    },
+    {
+      "id": 4,
+      "nome": "Smart TV 32” HD\nD-LED Rig Vizzion\nIPS Wi-Fi,HDMI,USB",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 390
+    },
+    {
+      "id": 5,
+      "nome": "Fone de Ouvido\nBluetooth JBL\nWireless Branco",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.5,
+      "preco": 240
+    },
+    {
+      "id": 6,
+      "nome": "Fones de Ouvido\nJBL Endurance\nRace TWS - Coral",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 289
+    },
+    {
+      "id": 7,
+      "nome": "Cooktop 5 Bocas\nPhilco Cook Chef 5\nTC à Gás GLP Preto",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 5,
+      "preco": 3340
+    },
+    {
+      "id": 8,
+      "nome": "Kit 3 Camisetas \nMasculinas Academia\nEsportiva Treino",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.2,
+      "preco": 33.5
+    },
+    {
+      "id": 9,
+      "nome": "Lavadora de Alta\nPressao Electrolux\nSuper PW EWS50",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.6,
+      "preco": 277.7
+    },
+    {
+      "id": 10,
+      "nome": "Forno Micro-ondas\nPhilco PMO34 \nEspelhado-34 L",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 5,
+      "preco": 430
+    },
+    {
+      "id": 11,
+      "nome": "Ténis Ferrari NmD\nMasculino Leve\nConfortável Prómoçáo",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.8,
+      "preco": 150
+    }
+  ],
+  "ofertas": [
+    {
+      "id": 2,
+      "nome": "Motorola G7 Plus\n64GB Rubi 4G\n4GB RAM Tela 6,24",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.2,
+      "preco": 66
+    },
+    {
+      "id": 3,
+      "nome": "Copo Termico Echolife\nQuente ou Frio com\nTampa Azul-900 ml",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.5,
+      "preco": 70
+    },
+    {
+      "id": 4,
+      "nome": "Echo Dot (5a geração)\nSmart Speaker com\nAlexa Amazon Branco",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 103
+    },
+    {
+      "id": 5,
+      "nome": "Caixa de Som Portatil\nJBL Go 3 Bluetooth\n Preto",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.7,
+      "preco": 14
+    },
+    {
+      "id": 6,
+      "nome": "Livro-Pororo\nVamos nos cuidar!\n",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 90
+    },
+    {
+      "id": 7,
+      "nome": "Caixa Organizadora\nArthi Rattran\n5044 1,74L-Branca",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 3,
+      "preco": 60
+    },
+    {
+      "id": 8,
+      "nome": "Caixa de Som Portatil\nJBL Go 3 Bluetooth\n Preto",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4.7,
+      "preco": 14
+    },
+    {
+      "id": 9,
+      "nome": "Porta-Queijo Minas\nTampa de \nPolipropileno 1 Peca",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 3.5,
+      "preco": 40
+    },
+    {
+      "id": 10,
+      "nome": "Chaleira Eletrica\nMondial Pratic CE-06\ncom Capacidade de 2L",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 90
+    },
+    {
+      "id": 11,
+      "nome": "Cobre-leito Solteiro\nKarsten 100% Al\n180 Fios Liss Rosa 2 Peças",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 70
+    },
+    {
+      "id": 12,
+      "nome": "Sapata para Ferro\nde Passar Utimil\nAntibrilho TM014",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 3.7,
+      "preco": 40
+    },
+    {
+      "id": 13,
+      "nome": "Livro-Pororo\nVamos nos cuidar!\n",
+      "imagem": "https://via.placeholder.com/150",
+      "avaliacao": 4,
+      "preco": 90
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "uri": "https://img.freepik.com/psd-gratuitas/modelo-de-banner-de-midia-social-de-super-venda-na-sexta-feira-negra_106176-1486.jpg",
+      "Title": "",
+      "FontSize": 25,
+      "Cor": "#ffff",
+      "JustifyContent": "flex-start",
+      "AlignItems": "flex-start",
+      "Padding": 20
+    },
+    {
+      "type": "image",
+      "uri": "https://img.freepik.com/psd-gratuitas/instagram-de-super-venda-de-sexta-feira-negra-e-modelo-de-banner-de-historia-do-facebook_106176-1616.jpg",
+      "Title": "",
+      "FontSize": 25,
+      "Cor": "#ffff",
+      "JustifyContent": "center",
+      "AlignItems": "center",
+      "Padding": 10
+    },
+    {
+      "type": "image",
+      "uri": "https://img.freepik.com/psd-premium/post-feed-black-week-em-portugues-renderizacao-3d-para-campanha-de-marketing-no-brasil_364106-730.jpg",
+      "Title": "",
+      "FontSize": 25,
+      "Cor": "#ffff",
+      "JustifyContent": "center",
+      "AlignItems": "center",
+      "Padding": 10
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nome": "Antônio  Pantoja ",
+      "documento": "6698523",
+      "email": "antonio@gmail.com",
+      "password": "$2b$10$K3mZCjSbvF6IjPH8Nl6VP.NgrNsD.V84n.NrQ21GISix4RrZe2zVS",
+      "pontuacao": 0,
+      "pontuacaoRecebida": 0,
+      "pontuacaoDistribuida": 0,
+      "TokenAccess": "$2b$10$buE7d6d0zLlcIe4tXiXWaefV9HVKoJqWbqabYZeODxlOHik9hhute"
+    }
+  ]
+}
